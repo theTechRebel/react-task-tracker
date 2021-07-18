@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+### Start App: `npm start`
+
+### Start Backend Server: `npm run server`
+
+The only comands you need for this small app.
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
